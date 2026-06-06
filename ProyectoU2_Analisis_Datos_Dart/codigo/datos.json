@@ -1,0 +1,7 @@
+[
+    {"nombre": "Fernanda", "apellido": "Reyes", "edad": 22, "salario": 15000.50},
+    {"nombre": "Caleb", "apellido": "Carrillo", "edad": 30, "salario": 20000.00},
+    {"nombre": "Isaias", "apellido": "Windsor", "edad": 26, "salario": 25000.00},
+    {"nombre": "Grace", "apellido": "Perez", "edad": 31, "salario": null},
+    {"nombre": null, "apellido": "Leos", "edad": 23, "salario": 18000.50}
+]
